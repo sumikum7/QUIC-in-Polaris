@@ -1,0 +1,13 @@
+/home/sumikum7/QUIC/quiche/target/release/deps/quote-808b78323cead883.rmeta: /home/sumikum7/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/lib.rs /home/sumikum7/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/ext.rs /home/sumikum7/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/format.rs /home/sumikum7/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/ident_fragment.rs /home/sumikum7/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/to_tokens.rs /home/sumikum7/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/runtime.rs /home/sumikum7/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/spanned.rs
+
+/home/sumikum7/QUIC/quiche/target/release/deps/libquote-808b78323cead883.rlib: /home/sumikum7/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/lib.rs /home/sumikum7/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/ext.rs /home/sumikum7/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/format.rs /home/sumikum7/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/ident_fragment.rs /home/sumikum7/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/to_tokens.rs /home/sumikum7/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/runtime.rs /home/sumikum7/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/spanned.rs
+
+/home/sumikum7/QUIC/quiche/target/release/deps/quote-808b78323cead883.d: /home/sumikum7/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/lib.rs /home/sumikum7/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/ext.rs /home/sumikum7/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/format.rs /home/sumikum7/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/ident_fragment.rs /home/sumikum7/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/to_tokens.rs /home/sumikum7/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/runtime.rs /home/sumikum7/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/spanned.rs
+
+/home/sumikum7/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/lib.rs:
+/home/sumikum7/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/ext.rs:
+/home/sumikum7/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/format.rs:
+/home/sumikum7/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/ident_fragment.rs:
+/home/sumikum7/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/to_tokens.rs:
+/home/sumikum7/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/runtime.rs:
+/home/sumikum7/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.9/src/spanned.rs:

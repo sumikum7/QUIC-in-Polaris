@@ -1,0 +1,5 @@
+/home/sumikum7/QUIC/quiche/deps/boringssl/build/CMakeFiles/rebuild_cache.dir
+/home/sumikum7/QUIC/quiche/deps/boringssl/build/CMakeFiles/edit_cache.dir
+/home/sumikum7/QUIC/quiche/deps/boringssl/build/CMakeFiles/bssl.dir
+/home/sumikum7/QUIC/quiche/deps/boringssl/build/CMakeFiles/ssl.dir
+/home/sumikum7/QUIC/quiche/deps/boringssl/build/CMakeFiles/crypto.dir

@@ -1,0 +1,11 @@
+# quiche
+
+includedir=/home/sumikum7/QUIC/quiche/include
+libdir=/home/sumikum7/QUIC/quiche/target/release
+
+Name: quiche
+Description: quiche library
+URL: https://github.com/cloudflare/quiche
+Version: 0.7.0
+Libs: -Wl,-rpath,${libdir} -L${libdir} -lquiche
+Cflags: -I${includedir}
