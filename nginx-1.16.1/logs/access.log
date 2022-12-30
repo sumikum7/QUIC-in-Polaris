@@ -1,0 +1,5 @@
+127.0.0.1 - - [19/Mar/2021:00:46:47 +0530] "GET / HTTP/2.0" 200 612 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36"
+127.0.0.1 - - [19/Mar/2021:00:46:48 +0530] "GET /favicon.ico HTTP/2.0" 404 555 "https://127.0.0.1/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36"
+127.0.0.1 - - [19/Mar/2021:15:40:44 +0530] "GET / HTTP/2.0" 200 612 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36"
+127.0.0.1 - - [19/Mar/2021:15:40:44 +0530] "GET /favicon.ico HTTP/2.0" 404 555 "https://127.0.0.1/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36"
+127.0.0.1 - - [19/Mar/2021:15:40:57 +0530] "HEAD / HTTP/3" 200 0 "-" "curl/7.76.0-DEV"
